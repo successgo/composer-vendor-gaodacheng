@@ -1,0 +1,12 @@
+{
+    "name": "gaodacheng/composer-vendor-gaodacheng",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Success Go",
+            "email": "success.go@gaodacheng.com"
+        }
+    ],
+    "require": {}
+}
